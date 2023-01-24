@@ -1,0 +1,71 @@
+/* Styling goes in this file */
+
+body {
+	font-family: Arial;
+}
+
+table{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.info{
+	text-align: center;
+}
+
+th {
+  background-color: #D6EEEE;
+}
+
+p1{
+  text-align: left;
+}
+h1{
+  text-align: center;
+}
+
+h2{
+	text-align: left;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+
+#decoration {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+circle {
+    opacity: 50%;
+    fill: darkolivegreen;
+}
+
+rect {
+    fill: blueviolet;
+}
+  
+circle:hover {
+    stroke: black;
+    stroke-width: 5px;
+}
+
+rect:hover {
+    fill: black;
+}
+
+h3{
+  text-align: center;
+}
