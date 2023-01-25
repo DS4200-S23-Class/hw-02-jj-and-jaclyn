@@ -66,12 +66,12 @@ img {
 }
 
 .left-column {
-  background-image: url(vis1.png);
+  background: url(vis1.png);
   height: 100px;
 }
 
 .right-column {
-  background-image: url(vis2.png);
+  background: url(vis2.png);
   height: 100px;
 }
 
