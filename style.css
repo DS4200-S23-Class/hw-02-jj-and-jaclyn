@@ -8,8 +8,12 @@ table{
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-  border-collapse: collapse;
-  width: 100%;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr {
+  border-bottom: 1pt solid black;
 }
 
 .info{
@@ -40,6 +44,9 @@ img {
   margin-right: auto;
   width: 95%;
 }
+
+
+
 
 #decoration {
     display: flex;
