@@ -65,13 +65,13 @@ img {
   flex: 1;
 }
 
-.blue-column {
+.left-column {
   background-image: url(vis1.png);
   height: 100px;
 }
 
-.green-column {
-  background-color: green;
+.right-column {
+  background-image: url(vis2.png);
   height: 100px;
 }
 
