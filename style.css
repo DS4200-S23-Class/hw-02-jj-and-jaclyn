@@ -55,7 +55,9 @@ circle {
 
 rect {
     fill: blueviolet;
-    border: 20px solid #ddd;
+    border-style: solid;
+    bordr-width: 2px;
+    border-color: black;
 }
   
 circle:hover {
@@ -65,7 +67,9 @@ circle:hover {
 
 rect:hover {
     fill: black;
-    border: 20px solid #ddd;
+    border-style: solid;
+    bordr-width: 2px;
+    border-color: black;
 }
 
 h3{
