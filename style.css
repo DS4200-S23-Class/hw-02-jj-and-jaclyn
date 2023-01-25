@@ -73,18 +73,13 @@ img {
   align-items: flex-start;
 }
 
-.left-column > * {
-  flex: 1;
-  min-width: 0;
-  min-height: 0;
-}
-
-
 .right-column {
-  background: url(vis2.png);
-  height: 100px;
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
-
 
 #decoration {
     display: flex;
