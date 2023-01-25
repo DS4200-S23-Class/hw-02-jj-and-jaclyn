@@ -45,7 +45,12 @@ img {
   width: 95%;
 }
 
-
+#task-abstraction {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
 
 
 #decoration {
